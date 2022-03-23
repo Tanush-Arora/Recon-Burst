@@ -1,0 +1,151 @@
+
+/* FOR ABOUT-ME.HTML */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand img{
+    border: black;
+    border-radius: 2000px;
+    display: block;
+ 
+}
+
+.nav-item a{
+    margin-right: 50px; ;
+    font-size:medium;
+    padding: auto;
+    display: flex;
+}
+
+
+.head-txt{
+    margin-top: 50px;
+    display: flex;
+    max-width: 90%;
+    justify-content: space-evenly;
+    background-color: rgb(245, 222, 222);
+    border-radius: 75px;
+}
+
+.head-b{
+    float: right;
+    margin-left: 150px;
+    justify-content: space-evenly;
+    background-color: rgb(169, 229, 200);
+    border-radius: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    display: flex;
+    font-size: 18px;
+    
+
+}
+
+.head-a{
+    margin-left: 70px;
+    border: 2px solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20;
+}
+
+.names{
+    margin-top: 5px;
+    float: left;
+    margin-left: 140px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.follow-og{
+    font-weight: 700;
+    font-size: 30px;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(248, 231, 189);
+    border-radius: 60px;
+    max-width: 90%;
+    display: flex;
+    margin: auto;
+    margin-top: 190px;
+    align-items: center;
+    padding-top: 10px;
+    
+
+}
+
+
+#container{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    background-color: snow;
+    border-radius: 30px;
+    margin-top: 30px;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+
+.insta-handle{
+    margin-right: 60px;
+}
+
+.link-handle{
+    margin-right: 60px;
+
+}
+
+.mail{
+    justify-content: center;
+    display: flex;
+}
+
+#ceh1{
+    margin-top: 150px;
+    margin-left: 30px;
+    background-color: rgb(202, 94, 58);
+    display: flex;
+    max-width: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+.style{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    padding-bottom: 20px;
+}
+
+#ceh2{
+    display: flex;
+    text-align: center;
+    background-color: rgb(185, 240, 191);
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: bolder;
+    font-weight: 600;
+}
+

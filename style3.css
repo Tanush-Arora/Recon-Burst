@@ -1,0 +1,311 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(/img/resume/stock3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img{
+    border-radius: 150px;
+    width: 250px;
+    height: 250px;
+    padding: 2px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+
+.taba{
+    display: flex;
+    margin-top: 90px;
+} 
+
+.edu2{
+    margin-right: 100px;
+    background-color: rgb(232, 223, 204);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin-left: 300px;
+    max-width: 30%;
+    border-radius: 30px;
+}
+
+.edu1{
+    margin-left: 90px;
+    background-color:rgb(232, 223, 204) ;
+    padding-left: 50px;
+    padding-right: 90px;
+    border-radius: 30px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    max-width: 40%;
+}
+
+
+.cona{
+    font: bolder;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 100px;
+
+}
+
+.edua{
+    font:bolder;
+    font-size: 32px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 70px;
+}
+
+.main{
+    background-color: rgb(232, 223, 204);
+    margin-top: 90px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    max-width: 45%;
+    margin-left: 380px;
+    border-radius: 30px;
+
+}
+
+#main1{
+    margin-left: 230px;
+    font-size: 40px;
+    font: bolder;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#main2{
+    margin-top: 15px;
+    padding-left: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    font:icon;
+}
+
+.tab1{
+    border-collapse: collapse;
+    margin: 50px 0;
+    min-width: 400;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: rgb(232, 223, 204);
+    margin-left: 350px;
+    margin-top: 70px;
+
+}
+
+.tab1 thead tr{
+    padding: 30px;
+    background-color: aqua;
+    font-size: 20px;
+}
+
+th, td{
+    padding: 15px;
+    vertical-align: top;
+}
+
+.conb{
+    font-size: 15px;
+    font-style: normal;
+    font: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.edub{
+    font-size: 17px;
+    font: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.flexbox1{
+    display: flex;
+    
+}
+
+.fba{
+    background-color:rgb(232, 223, 204);
+    max-width: 40%;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+
+}
+#a1{
+    margin-left: 120px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#h2{
+    margin-left: 190px;
+}
+
+#a2{
+    font-size: 17px;
+    font:bold;
+    margin:10;
+}
+
+.fbb{
+    background-color: rgb(232, 223, 204);
+    margin-left: 120px;
+    margin-top: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    border-radius: 30px;
+    max-width: 60%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+#b1{
+    padding-top: 10px;
+    margin-left: 10px;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#b2{
+    font-size: 15px;
+    font: bold;;
+    margin-left: 10;
+
+}
+
+.flexbox2{
+    display: flex;
+}
+
+.fba1{
+    background-color:rgb(232, 223, 204);
+    margin-left: 100px;
+    margin-top: 90px;
+    padding-left: 40px;
+    padding-right: 10px;
+    border-radius: 30px;
+    max-width: 45%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+}
+
+.fba2{
+    background-color:rgb(232, 223, 204);
+    margin-left: 120px;
+    margin-top: 90px;
+    padding-left: 40px;
+    padding-right: 50px;
+    border-radius: 30px;
+    max-width: 55%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.flexbox3{
+    display: flex;
+}
+
+.box1{
+    background-color: rgb(232, 223, 204);
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 30px;
+    max-width: 45%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.box2{
+    background-color: rgb(232, 223, 204);
+    margin-left: 200px;
+    margin-top: 100px;
+    padding-left: 40px;
+    padding-right: 50px;
+    border-radius: 30px;
+    max-width: 45%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#c1{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#e1{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#d1{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#f1{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#main2, #a2, #b2, #c2, #d2, #e2,#f2{
+    font-size: 15px;
+    font-style: normal;
+    font: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.button{
+    background-color: rgb(244, 244, 244);
+    display: flex;
+    border-radius: 20px;
+    margin-left: 700px;
+    max-width: fit-content;
+    font-size: 30px;
+    margin-top: 80px;
+    justify-content: center;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#txt{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+

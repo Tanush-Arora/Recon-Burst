@@ -1,0 +1,155 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(/img/CEH-GUIDE/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#ia1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    margin-top: 20px;
+}
+
+#ia2{
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-weight: 500;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#ia3{
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 500;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.flexb1{
+    display: flex;
+}
+#ia4{
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+
+#ia5{
+    color: white;
+    max-width: 40%;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#ia6{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    font-weight: 500;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    margin-left: 40px;
+}
+
+#ia7{
+    color: white;
+    max-width: 90%;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+#ia8{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+#ia9{
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 500;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    margin-left: 40px;
+
+}
+
+#ia10{
+    margin-top: 30px;
+    color: white;
+    max-width: 80%;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.follow-og{
+    display: flex;
+    margin-left: 550px;
+    color: white;
+    font-size: 50px;
+    margin-top: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+    
+
+
+.insta-handle{
+    margin-right: 60px;
+}
+
+.link-handle{
+    margin-right: 60px;
+
+}
+
+.mail{
+    justify-content: center;
+    display: flex;
+}
+
+#container{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    background-color: white;
+    max-width: fit-content;
+    border-radius: 30px;
+    margin-top: 30px;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-left: 580px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
